@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- *main - the beginning of the function
- *return: returns 0 (zero)
+ *main - the start point
+ *Description: prints out a text
+ *Return: returns 0 (zero)
  */
 int main(void)
 {
