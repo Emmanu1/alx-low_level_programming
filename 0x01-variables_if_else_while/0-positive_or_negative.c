@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ *main - stat
+ *Description: programm checks if number is even or odd
+ *Return: returns 0
+ */
 int main(void)
 {
 	int n;
