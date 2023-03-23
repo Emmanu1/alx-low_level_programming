@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *main - Start point
- *Description: 'prints _putchar'
- *Return: returns zero
+ * main - Start point
+ * Description: 'prints _putchar'
+ * Return: returns zero
  */
 void print_alphabet_x10(void)
 {
